@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I’m Alicia Fernández, a Master in Telecommunications Engineering student from Bilbao. 
+I’m Alicia Fernández, a Master in Telecommunications Engineering student from Bilbao, Spain. 
+
 I love designing and programming and I'm currently learning about security and cloud computing. I also like data manipulation, I have worked lightly with optimizing algorithms.
 
 👩🏻 You can reach me in social media @aliciaferle or in Linkedin Alicia Fernández León
