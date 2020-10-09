@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aliciafl/aliciafl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m Alicia Fernández, a Master in Telecommunications Engineering student from Bilbao. 
 I love designing and programming and I'm currently learning about security and cloud computing. I also like data manipulation, I have worked lightly with optimizing algorithms.
 
