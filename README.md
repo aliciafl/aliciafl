@@ -6,4 +6,4 @@ I love designing and programming and I'm currently learning about security and c
 
 👩🏻 You can reach me in social media @aliciaferle or in Linkedin Alicia Fernández León
 
-🖥 Find me on the web at https://aliciafl.github.io/home
+🖥 Find me on the web at https://aliciafl.github.io/website
