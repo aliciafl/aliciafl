@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. 👋 It's great to meet you.
 
 I’m Alicia Fernández, a Master in Telecommunications Engineering student from Bilbao, Spain. 
 
